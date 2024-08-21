@@ -1,5 +1,7 @@
 # The Urban Fence
 ## Database Design and Development
+### Group Members: Deandra Martin, Amaya Alisca, Alex Mayer, Cam Reeves
+
 
 Our new start up restaurant is scaling fast, leaving our old methods in the dust. There is no system to display orders, food items the order contains or payment method electronically. To keep up with our fast-paced business, we have decided to formulate a database where all transactions can be tracked and organized efficiently. We seek to store information about orders, chefs, our customers, food items we provide, and payment methods. The database will also be able to quickly query and answer questions such as: 
   
